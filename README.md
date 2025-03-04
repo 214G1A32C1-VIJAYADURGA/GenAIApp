@@ -30,6 +30,7 @@ GenAIApp is an AI-powered chatbot designed to analyze code snippets, identify is
 ```bash
 git clone https://github.com/214G1A32C1-VIJAYADURGA/GenAIApp.git
 cd GenAIApp
+```
 
 ### Set Up API Key
 Replace `API_KEY` in `main.py` with your actual Google Gemini API key.
@@ -37,4 +38,21 @@ Replace `API_KEY` in `main.py` with your actual Google Gemini API key.
 ### Run the Application
 ```bash
 streamlit run main.py
+```
 
+## Usage
+1. Paste your code snippet or describe the issue.  
+2. Click the **🚀 Generate Response** button.  
+3. Get AI-powered insights and solutions!
+
+## 📜 File Structure
+```bash
+GenAIApp/
+│── main.py          # Main Streamlit application
+│── requirements.txt # Required dependencies
+│── README.md        # Documentation
+│── .gitignore       # Git ignore file
+│── output.png       # Screenshot - Home Screen
+│── output1.png      # Screenshot - AI Response 1
+│── output2.png      # Screenshot - AI Response 2
+```
