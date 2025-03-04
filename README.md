@@ -26,7 +26,15 @@ GenAIApp is an AI-powered chatbot designed to analyze code snippets, identify is
 ![AI Response 2](output2.png)  
 
 ## 🛠 Installation
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/214G1A32C1-VIJAYADURGA/GenAIApp.git
 cd GenAIApp
+
+### Set Up API Key
+Replace API_KEY in main.py with your actual Google Gemini API key.
+
+### Run the Application
+'''bash
+streamlit run main.py
+
