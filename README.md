@@ -49,7 +49,6 @@ streamlit run main.py
 ```bash
 GenAIApp/
 │── main.py          # Main Streamlit application
-│── requirements.txt # Required dependencies
 │── README.md        # Documentation
 │── .gitignore       # Git ignore file
 │── output.png       # Screenshot - Home Screen
