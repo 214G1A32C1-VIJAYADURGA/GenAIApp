@@ -32,9 +32,9 @@ git clone https://github.com/214G1A32C1-VIJAYADURGA/GenAIApp.git
 cd GenAIApp
 
 ### Set Up API Key
-Replace API_KEY in main.py with your actual Google Gemini API key.
+Replace `API_KEY` in `main.py` with your actual Google Gemini API key.
 
 ### Run the Application
-'''bash
+```bash
 streamlit run main.py
 
